@@ -9,4 +9,6 @@ Um teste simples com rukuli uma gem pra executar o sikuli framework em ruby.
 
 # Docs:
 #### http://www.rubydoc.info/gems/rukuli/1.0.3/Rukuli/Searchable#find-instance_method
+#### https://launchpad.net/sikuli/sikulix/
+#### https://github.com/sikuli/sikuli
 
